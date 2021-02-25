@@ -1,0 +1,19 @@
+{
+  "name": "machinelearningforartists",
+  "version": "0.0.1",
+  "description": "An experimental course",
+  "main": "index.js",
+  "authors": {
+    "name": "Derek Au",
+    "email": "derek@glazy.org"
+  },
+  "repository": "derekphilipau/machinelearningforartists",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
