@@ -3,13 +3,11 @@
 # abort on errors
 set -e
 
-cd docs/
-
 # build
-npm run docs:build
+npm run build
 
 # navigate into the build output directory
-cd .vuepress/dist
+cd ./src/.vuepress/dist
 
 # if you are deploying to a custom domain
 # echo 'help.glazy.org' > CNAME
