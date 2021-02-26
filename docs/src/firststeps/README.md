@@ -60,6 +60,8 @@ Since the release of DeOldify just a couple years ago, a number of services have
 * [DeepAI: Image Colorization API](https://deepai.org/machine-learning-model/colorizer)
 * [Algorithma: Colorize Photos](https://demos.algorithmia.com/colorize-photos)
 
+![](./img/comparison.jpg)
+
 ## Share Your Colorized Photos
 
 Did you get any good results from DeOldify?  Share your photos in our Slack Workspace!
