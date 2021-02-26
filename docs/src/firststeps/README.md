@@ -52,6 +52,14 @@ To follow along with this video, you will need to open my DeOldify Colab Noteboo
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/yTMuVcWigrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+## Other Colorization Services
+
+Since the release of DeOldify just a couple years ago, a number of services have incorporated automatic colorization.  Try the links below and compare to the results you got from DeOldify:
+
+* [DeepAI: Image Colorization API](https://deepai.org/machine-learning-model/colorizer)
+* [Algorithma: Colorize Photos](https://demos.algorithmia.com/colorize-photos)
+
 ## Share Your Colorized Photos
 
 Did you get any good results from DeOldify?  Share your photos in our Slack Workspace!
