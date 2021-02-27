@@ -65,6 +65,7 @@ Since the release of DeOldify just a couple years ago, a number of services have
 
 * [DeepAI: Image Colorization API](https://deepai.org/machine-learning-model/colorizer)
 * [Algorithma: Colorize Photos](https://demos.algorithmia.com/colorize-photos)
+* [MyHeritage Colorizer](https://www.myheritage.com/incolor) and [MyHeritage Deep Nostalgia](https://www.myheritage.com/deep-nostalgia) (Site requires credit card or PayPal for free 14-day trial.)
 
 ![](./img/comparison.jpg)
 

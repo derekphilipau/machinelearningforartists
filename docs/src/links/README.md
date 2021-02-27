@@ -1,5 +1,9 @@
 # Links
 
+## Further Learning
+
+Derrick Schultz's [Artificial Images](https://artificial-images.com/) is an amazing resources for artists who want to create images with machine learning.  He offers classes which would be a great second step for any of you who finish this course and want to learn more.  His [Youtube channel](https://www.youtube.com/channel/UCaZuPdmZ380SFUMKHVsv_AA) has recordings of classes and tutorials.
+
 ## Art
 
 * [AIArtists.org](https://aiartists.org/ai-generated-art-tools) The world’s largest community of artists exploring the impact of AI on art & society.
