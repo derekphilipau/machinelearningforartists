@@ -18,6 +18,10 @@ Artbreeder is a website that lets you "breed" machine-learning images while coll
 
 This is a somewhat silly assignment, but Artbreeder will give you your first taste of generating images with a type of machine learning software called a ***GAN*** (Generative Adversarial Network), and of how to manipulate image ***styles*** like facial hair and ethnicity using ***style transfer***.
 
+You can also try uploading photos of paintings or sculptures of heads:
+
+![](./img/david_ab.jpg)
+
 #### Using Artbreeder to Make Art
 
 The photographer Bas Uterwijk uses Artbreeder to create "real-life" portraits of historical people.  [Check out his website](https://www.basuterwijk.com/portfolio/G0000WVKM6MbiIAc), [Instagram](https://www.instagram.com/ganbrood/), and [this designboom article](https://www.designboom.com/technology/bas-sterwijk-artbreeder-ai-famous-portraits-07-11-2020/)
