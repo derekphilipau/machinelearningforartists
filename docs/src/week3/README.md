@@ -2,6 +2,10 @@
 
 ## StyleGAN2 links
 
+### StyleGAN2-ADA — Official PyTorch implementation
+
+https://github.com/NVlabs/stylegan2-ada-pytorch
+
 ### Closed-Form Factorization of Latent Semantics in GANs
 
 https://genforce.github.io/sefa/
@@ -9,6 +13,10 @@ https://genforce.github.io/sefa/
 ### StyleGAN2-ada operations
 
 https://colab.research.google.com/drive/1kW8H8IkaFhoIVhf1uUhVoc93zZqllmg2?authuser=1#scrollTo=xzA1-mt88AO_
+
+### Encoding in Style: A StyleGAN Encoder for Image-to-Image Translation
+
+https://eladrich.github.io/pixel2style2pixel/
 
 ### StyleGAN2-ada for practice
 
