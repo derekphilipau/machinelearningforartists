@@ -62,6 +62,7 @@ To follow along with this video, you will need to open my DeOldify Colab Noteboo
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/yTMuVcWigrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[Check out Jason Antic, the creator of DeOldify, on Twitter.](https://twitter.com/deoldify)
 
 ## Other Colorization Services
 

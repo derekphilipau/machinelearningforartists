@@ -39,6 +39,7 @@ module.exports = {
     sidebar: [
       '/',
       '/firststeps/',
+      '/week1/',
       '/links/'
     ]
   },

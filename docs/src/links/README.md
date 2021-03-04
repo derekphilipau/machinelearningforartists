@@ -10,6 +10,7 @@ Derrick Schultz's [Artificial Images](https://artificial-images.com/) is an amaz
     * [Featured Artists](https://aiartists.org/ai-artist-founding-members)
     * [Creative Tools to Generate AI Art](https://aiartists.org/ai-generated-art-tools)
 * [ML x ART](https://mlart.co/) A showcase with creative machine learning experiments
+* [NVIDIA Deep Learning AI Art Gallery](https://www.nvidia.com/en-us/deep-learning-ai/ai-art-gallery/artists/)
 
 ## Websites
 
@@ -21,9 +22,17 @@ Derrick Schultz's [Artificial Images](https://artificial-images.com/) is an amaz
     * [DALL·E: Creating Images from Text](https://openai.com/blog/dall-e/)
     * [CLIP: Connecting Text and Images](https://openai.com/blog/clip/)
 
+# Models & Datasets
+
+* [Hugging Face](https://huggingface.co/)
+* [Kaggle](https://www.kaggle.com/datasets)
+* [StyleGAN2 Models](https://github.com/justinpinkney/awesome-pretrained-stylegan2)
+* [Runway ML](https://app.runwayml.com/models)
+
+
 ## Youtube
 
-* [Two Minute Papers (Youtube)](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)  Reviews of new papers in machine learning, a great way to see cutting research.
+* [Two Minute Papers (Youtube)](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)  Reviews of new papers in machine learning, a great way to see cutting-edge research.  Coverage of very technical papers, but anyone can follow along.
 
 
 ## Twitter
