@@ -47,13 +47,13 @@ In these three papers published less than three years apart, you can see that it
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/Jy_VZQnZqGk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Create a 3D Model of Yourself
+## Create a 3D Model of Someone
 
-In this tutorial, we're going to use 
+In this tutorial, we're going to use PIFuHD to generate a 3D model from just a single photograph.  We can then use that model object in various 3D programs.
 
 [Colab Notebook](https://colab.research.google.com/github/derekphilipau/machinelearningforartists/blob/main/PIFuHD_Demo.ipynb)
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/WjvM3FcpId4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Animating 3D Models
