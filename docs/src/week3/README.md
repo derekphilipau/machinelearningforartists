@@ -32,3 +32,10 @@ https://github.com/orpatashnik/StyleCLIP
 ### Navigating StyleGAN2 w latent space using CLIP
 
 https://github.com/l4rz/stylegan2-clip-approach
+
+### Navigating StyleGAN2 𝑊 latent space using CLIP
+https://colab.research.google.com/drive/1IN3IgWQoB9WZGyz689COSGNnvnz7lIFI
+
+
+### Aphantasia
+https://github.com/eps696/aphantasia
