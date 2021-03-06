@@ -83,7 +83,15 @@ https://github.com/timzhang642/3D-Machine-Learning
 
 ### Self-made
 
+You can use image-editing software like Photoshop, digitally alter existing photos, or shoot photos on your own.
 
+### Dataset Goal
+
+* Related to your work/interests
+* 500+ images or short texts 
+* Images should be at least 512px by 512px square
+* “Clean”
+* Found vs. Created
 
 ### Models & Datasets
 
