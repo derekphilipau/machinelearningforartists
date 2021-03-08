@@ -6,6 +6,19 @@
 
 https://github.com/NVlabs/stylegan2-ada-pytorch
 
+### StyleGAN2-Surgery
+
+A collection of scripts and convenience modifications for creative media synthesis.
+
+https://github.com/aydao/stylegan2-surgery
+
+### pbaylies/projector_clip.py
+
+https://gist.github.com/pbaylies/671ef8434fd11f056bab4330e0e7c365
+
+### pbaylies/stylegan2-ada
+
+https://github.com/pbaylies/stylegan2-ada
 ### Closed-Form Factorization of Latent Semantics in GANs
 
 https://genforce.github.io/sefa/

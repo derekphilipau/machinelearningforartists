@@ -75,6 +75,10 @@ https://github.com/timzhang642/3D-Machine-Learning
 
 ### "Scraping"
 
+Learn how to "scrape" or download images from the web using Google Chrome extensions:
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/3f5Z-ivoep8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * [Download All Images](https://chrome.google.com/webstore/detail/download-all-images/ifipmflagepipjokmbdecpmjbibjnakm/related)
 * [Imageye Image downloader](https://chrome.google.com/webstore/detail/image-downloader-imageye/agionbommeaifngbhincahgmoflcikhm/related?hl=en-US)
 * [I'm a Gentleman Image Downloader](https://chrome.google.com/webstore/detail/im-a-gentleman/afjaicccalbbickikgdegaihmajaidpd?hl=en-US)
