@@ -6,6 +6,12 @@
 
 https://github.com/NVlabs/stylegan2-ada-pytorch
 
+### dvschultz/stylegan2-ada-pytorch
+
+new generators for stylegan2-ada-pytorch
+
+https://github.com/dvschultz/stylegan2-ada-pytorch/blob/main/generate.py#L156
+
 ### StyleGAN2-Surgery
 
 A collection of scripts and convenience modifications for creative media synthesis.
