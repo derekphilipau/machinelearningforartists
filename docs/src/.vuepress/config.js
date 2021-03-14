@@ -40,6 +40,7 @@ module.exports = {
       '/',
       '/firststeps/',
       '/week1/',
+      '/week2/',
       '/links/'
     ]
   },
