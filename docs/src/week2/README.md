@@ -46,7 +46,7 @@ You only need to train for as long as you feel like, one or two hours is fine.  
 
 More info is in the Notebook.  Please open:
 
-[StyleGAN2 Pokemon Demo Notebook](https://colab.research.google.com/github/derekphilipau/machinelearningforartists/blob/gh-pages/stylegan2_ada_pytorch_pokemon.ipynb)
+[StyleGAN2 Pokemon Demo Notebook](https://colab.research.google.com/github/derekphilipau/machinelearningforartists/blob/main/stylegan2_ada_pytorch_pokemon.ipynb)
 
 ## Transformers
 
