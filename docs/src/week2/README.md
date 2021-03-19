@@ -48,6 +48,9 @@ More info is in the Notebook.  Please open:
 
 [StyleGAN2 Pokemon Demo Notebook](https://colab.research.google.com/github/derekphilipau/machinelearningforartists/blob/main/stylegan2_ada_pytorch_pokemon.ipynb)
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/YM7NIwvsWcs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Transformers
 
 [Hugging Face: Write With Transformer](https://transformer.huggingface.co/)
