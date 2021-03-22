@@ -12,6 +12,11 @@ new generators for stylegan2-ada-pytorch
 
 https://github.com/dvschultz/stylegan2-ada-pytorch/blob/main/generate.py#L156
 
+https://github.com/dvschultz/stylegan2-ada-pytorch
+
+Colab
+https://github.com/dvschultz/stylegan2-ada-pytorch/blob/main/SG2_ADA_PyTorch.ipynb
+
 ### StyleGAN2-Surgery
 
 A collection of scripts and convenience modifications for creative media synthesis.

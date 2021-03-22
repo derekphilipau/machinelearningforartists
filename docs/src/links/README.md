@@ -1,9 +1,5 @@
 # Links
 
-## Further Learning
-
-Derrick Schultz's [Artificial Images](https://artificial-images.com/) is an amazing resources for artists who want to create images with machine learning.  He offers classes which would be a great second step for any of you who finish this course and want to learn more.  His [Youtube channel](https://www.youtube.com/channel/UCaZuPdmZ380SFUMKHVsv_AA) has recordings of classes and tutorials.
-
 ## Art
 
 * [AIArtists.org](https://aiartists.org/ai-generated-art-tools) The world’s largest community of artists exploring the impact of AI on art & society.
@@ -28,7 +24,7 @@ Derrick Schultz's [Artificial Images](https://artificial-images.com/) is an amaz
 * [Kaggle](https://www.kaggle.com/datasets)
 * [StyleGAN2 Models](https://github.com/justinpinkney/awesome-pretrained-stylegan2)
 * [Runway ML](https://app.runwayml.com/models)
-
+* [Google Quick Draw! Datset](https://github.com/googlecreativelab/quickdraw-dataset)
 
 ## Youtube
 
@@ -69,6 +65,7 @@ thanks to [Ryan Murdock](https://rynmurdock.github.io/), [Jonathan Fly](https://
 
 # Courses
 
+Derrick Schultz's [Artificial Images](https://artificial-images.com/) is an amazing resources for artists who want to create images with machine learning.  He offers classes which would be a great second step for any of you who finish this course and want to learn more.  His [Youtube channel](https://www.youtube.com/channel/UCaZuPdmZ380SFUMKHVsv_AA) has recordings of classes and tutorials.
 
 ## PyTorch 
 
