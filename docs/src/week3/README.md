@@ -1,6 +1,15 @@
-# Week 3 (TODO)
+# Week 3
 
-## StyleGAN2 links
+## Class Notebooks:
+
+Here are links to our current Notebooks: 
+
+* [Latest StyleGAN2 General Training Notebook (512px)](https://colab.research.google.com/github/derekphilipau/machinelearningforartists/blob/main/stylegan2_ada_pytorch_all_new5.ipynb)
+* [StyleGAN2 Transfer Learning with Faces Notebook (512px)](https://colab.research.google.com/github/derekphilipau/machinelearningforartists/blob/main/stylegan2_ada_pytorch_resume.ipynb)
+* [StyleGAN2 Transfer Learning with Vases Notebook (1024px)](https://colab.research.google.com/github/derekphilipau/machinelearningforartists/blob/main/stylegan2_ada_pytorch_resume_vases.ipynb)
+
+
+## Various StyleGAN2 links
 
 ### StyleGAN2-ADA — Official PyTorch implementation
 
@@ -48,6 +57,9 @@ This version of the newest PyTorch-based StyleGAN2-ada is intended mostly for fe
 
 https://github.com/eps696/stylegan2ada
 
+
+### CLIP-GLaSS
+https://colab.research.google.com/drive/1fWka_U56NhCegbbrQPt4PWpHPtNRdU49?usp=sharing#scrollTo=zvZFRZtcv8Mp
 
 ### Text-Guided Editing of Images (Using CLIP and StyleGAN)
 
